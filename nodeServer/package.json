@@ -4,7 +4,7 @@
   "description": "Node Server For My Chat App",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "cd nodeServer && nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Umang Saxena",
