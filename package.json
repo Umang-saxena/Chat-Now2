@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "cd nodeServer && nodemon index.js",
+    "start": "cd nodeServer && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 
